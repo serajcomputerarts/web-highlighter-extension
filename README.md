@@ -18,7 +18,17 @@
 </div>
 
 ---
-
+## 📸 Screenshots
+<p align=center>Highlighting a Text</p>
+<div align="center">
+<img src="screenshots/screenshot4.jpg"  width="400">
+ <p align=center>Add a title to selected</p>
+<img src="screenshots/screenshot3.jpg"  width="200">
+ <p align=center>View all titles</p>
+<img src="screenshots/screenshot2.jpg"  width="200">
+  <p align=center>Reports</p>
+<img src="screenshots/screenshot.jpg"  width="200">
+</div>
 
 
 ## ✨ Features
